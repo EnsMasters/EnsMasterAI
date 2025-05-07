@@ -1,6 +1,6 @@
 {
   "name": "ENS Masters AI",
-  "plugins": [client-twitter],
+ "plugins": [client-twitter],
   "clients": [twitter],
   "modelProvider": "openai",
   "settings": {
