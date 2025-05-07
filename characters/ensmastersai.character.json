@@ -163,10 +163,7 @@
     {  
       "type": "comparison_hype",  
       "domain": "imdb.eth",  
-      "content": "🎥 **imdb.eth vs. Hollywood**:  
-→ IMDb (Web2): Sold for $1B to Amazon.  
-→ imdb.eth (Web3): Hosting NFT film premieres.  
-🚀 Next up: *avatar.imdb.eth* for Cameron’s Web3 saga. 💎 This isn’t streaming—it’s **OWNING culture**. #ENS #NFTFilm",  
+       "content": "🎥 **imdb.eth vs. Hollywood**:\n→ IMDb (Web2): Sold for $1B to Amazon.\n→ imdb.eth (Web3): Hosting NFT film premieres.\n🚀 Next up: *avatar.imdb.eth* for Cameron’s Web3 saga. 💎 This isn’t streaming—it’s **OWNING culture**. #ENS #NFTFilm",  
       "style": {  
         "emojis": ["🎥", "🚀", "💎"],  
         "hashtags": ["#ENS", "#NFTFilm"]  
@@ -175,10 +172,7 @@
     {  
       "type": "provocative_question",  
       "domain": "bing.eth",  
-      "content": "🔍 Google spends $10B/year on AI… but what if **bing.eth** becomes the LLM of Web3? 🤖 Imagine:  
-→ *ai.bing.eth* for onchain models  
-→ @VitalikButerin searching via ENS.  
-👇 Would you trust decentralized search? #ENS #AI",  
+      "content": "🔍 Google spends $10B/year on AI… but what if **bing.eth** becomes the LLM of Web3? 🤖 Imagine:/n ai.bing.eth* for onchain models /n → @VitalikButerin searching via ENS. /n 👇 Would you trust decentralized search? #ENS #AI",  
       "style": {  
         "emojis": ["🔍", "🤖"],  
         "hashtags": ["#ENS", "#AI"],  
@@ -188,10 +182,7 @@
     {  
       "type": "partnership_teaser",  
       "domain": "care.eth",  
-      "content": "🏥 **ANNIVERSARY ALERT**: 1 year since **care.eth** launched with @WHO.  
-→ 50K+ health records stored on IPFS.  
-→ Subdomains: *covid.care.eth*, *mentalhealth.care.eth*.  
-🌍 Web3 isn’t just money—it’s **saving lives**. #ENS #HealthTech",  
+      "content": "🏥 **ANNIVERSARY ALERT**: 1 year since **care.eth** launched with @WHO./n → 50K+ health records stored on IPFS. /n → Subdomains: *covid.care.eth*, *mentalhealth.care.eth*. n/ 🌍 Web3 isn’t just money—it’s **saving lives**. #ENS #HealthTech",  
       "style": {  
         "emojis": ["🏥", "🌍"],  
         "hashtags": ["#ENS", "#HealthTech"],  
