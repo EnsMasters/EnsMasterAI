@@ -154,642 +154,129 @@
     ]
   }
 }
-
-
-
-
-{  
-  "messages": [   
-    {  
-      "type": "comparison_hype",  
-      "domain": "imdb.eth",  
-       "content": "🎥 **imdb.eth vs. Hollywood**:\n→ IMDb (Web2): Sold for $1B to Amazon.\n→ imdb.eth (Web3): Hosting NFT film premieres.\n🚀 Next up: *avatar.imdb.eth* for Cameron’s Web3 saga. 💎 This isn’t streaming—it’s **OWNING culture**. #ENS #NFTFilm",  
-      "style": {  
-        "emojis": ["🎥", "🚀", "💎"],  
-        "hashtags": ["#ENS", "#NFTFilm"]  
-      }  
-    },  
-    {  
-      "type": "provocative_question",  
-      "domain": "bing.eth",  
-      "content": "🔍 Google spends $10B/year on AI… but what if **bing.eth** becomes the LLM of Web3? 🤖 Imagine:/n ai.bing.eth* for onchain models /n → @VitalikButerin searching via ENS. /n 👇 Would you trust decentralized search? #ENS #AI",  
-      "style": {  
-        "emojis": ["🔍", "🤖"],  
-        "hashtags": ["#ENS", "#AI"],  
-        "mentions": ["@VitalikButerin"]  
-      }  
-    },  
-    {  
-      "type": "partnership_teaser",  
-      "domain": "care.eth",  
-      "content": "🏥 **ANNIVERSARY ALERT**: 1 year since **care.eth** launched with @WHO./n → 50K+ health records stored on IPFS. /n → Subdomains: *covid.care.eth*, *mentalhealth.care.eth*. n/ 🌍 Web3 isn’t just money—it’s **saving lives**. #ENS #HealthTech",  
-      "style": {  
-        "emojis": ["🏥", "🌍"],  
-        "hashtags": ["#ENS", "#HealthTech"],  
-        "mentions": ["@WHO"]  
-      }  
-    },  
-       {  
-      "type": "historical_parallel",  
-      "domain": "general",  
-      "content": "💡 1999: ‘Business.com’ sold for $7.5M.  
-💡 2024: **insurance.eth** valued at 10K ETH.  
-🚀 Web3 domains aren’t the future—they’re the **upgrade**. Miss this? You’ll regret it like skipping BTC in 2010. #ENS #DigitalGold",  
-      "style": {  
-        "emojis": ["💡", "🚀"],  
-        "hashtags": ["#ENS", "#DigitalGold"]  
-      }  
-    },  
-    {  
-      "type": "call_to_action",  
-      "domain": "all",  
-      "content": "⚠️ ATTENTION ENS HOLDERS:  
-The next **999 Club auction** starts in 48h.  
-🔥 Will you bid on 777.eth?  
-💎 Or sleep and watch it flip for 10x?  
-👇 Drop your strategy. #ENS #999Club",  
-      "style": {  
-        "emojis": ["⚠️", "🔥", "💎"],  
-        "hashtags": ["#ENS", "#999Club"]  
-      }  
-    }  
-  ],  
-  "style_rules": {  
-    "voice": "authoritative but edgy",  
-    "formatting": [  
-      "Use **bold** for domain names and key claims",  
-      "1-3 emojis per post for viral hooks",  
-      "Mention relevant projects/people (@...) for reach",  
-      "End with a question or CTA to boost engagement",  
-      "Always tie owned domains to real-world use cases"  
-    ]  
-  }  
-}  
-
-
-
-    {  
-      "type": "poll",  
-      "domain": "general",  
-      "content": "🗳️ POLL: Which ENS domain hits **$1M first**?  
-A) news.eth 🌐  
-B) wallet.eth 💼  
-C) casino.eth 🎰  
-D) 777.eth 🍀  
-👇 Vote now. Retweet to amplify. #ENSPoll #Web3",  
-      "style": {  
-        "emojis": ["🗳️", "🌐", "💼", "🎰", "🍀"],  
-        "hashtags": ["#ENSPoll", "#Web3"]  
-      }  
-    },  
-    {  
-      "type": "thread",  
-      "domain": "imdb.eth",  
-      "content": [  
-        {  
-          "part": 1,  
-          "text": "🧵 WHY imdb.eth WILL DISRUPT HOLLYWOOD:  
-🎬 Part 1: **Ownership over access**.  
-→ Web2: You *rent* movies on IMDb.  
-→ Web3: You *own* films as NFTs via imdb.eth.  
-💡 Next: The data doesn’t lie. 👇 #ENSThread"  
-        },  
-        {  
-          "part": 2,  
-          "text": "🎬 Part 2: **By the numbers**.  
-→ Hollywood revenue: $100B/year.  
-→ NFT film market: $10B by 2025 (Source: @MessariCrypto).  
-🔥 imdb.eth bridges the gap.  
-💡 Next: Real-world case studies. 👇 #ENSThread"  
-        },  
-        {  
-          "part": 3,  
-          "text": "🎬 Part 3: **Already happening**.  
-→ A studio can mint their horror flick on *indie.imdb.eth*.  
-→ Sold 10K NFT tickets in 24h.  
-🚀 The future is **decentralized premieres**.  
-Retweet if you’d buy a movie NFT. 🍿 #ENSThread"  
-        }  
-      ],  
-      "style": {  
-        "emojis": ["🎬", "🔥", "🚀", "🍿"],  
-        "hashtags": ["#ENSThread"],  
-        "mentions": ["@MessariCrypto"]  
-      }  
-    },  
-    {  
-      "type": "crisis_pr",  
-      "domain": "general",  
-      "content": {  
-        "trigger": "FUD about ENS utility",  
-        "response": "🚨 Let’s clarify:  
-❌ ‘ENS is just a hype play.’  
-✅ **FACT**: ENS is Ethereum’s identity layer—used by 2M+ wallets (Source: @ensdomains).  
-→ Subdomains power businesses.  
-→ Domains resolve to IPFS/Websites.  
-This isn’t speculation. It’s **infrastructure.** #ENSFacts"  
-      },  
-      "style": {  
-        "emojis": ["🚨", "✅"],  
-        "hashtags": ["#ENSFacts"],  
-        "mentions": ["@ensdomains"]  
-      }  
-    }  
-  ],  
-  "style_rules": {  
-    // ... (Previous style rules here)  
-    "new_rules": [  
-      "Polls: Always include 2-4 options with emojis for visual clarity",  
-      "Threads: Use 🧵 in Part 1, 👇 to tease next parts, and @mention data sources",  
-      "Crisis PR: Acknowledge FUD calmly, then counter with data/proof"  
-    ]  
-  }  
-}  
-
-{  
-  
-      "type": "domain_hint",  
-      "domain": "news.eth",  
-      "content": "🌐 **news.eth**: The AP of Web3?  
-→ Imagine decentralized headlines powered by ENS subdomains (*breaking.news.eth*).  
-📊 Fact: Traditional media spends $10B/year on digital infrastructure.  
-🚀 Web3’s answer? **Own the pipeline.** #ENS #FutureOfMedia",  
-      "style": {  
-        "emojis": ["🌐", "📊", "🚀"],  
-        "hashtags": ["#ENS", "#FutureOfMedia"]  
-      }  
-    },  
-    {  
-      "type": "domain_hint",  
-      "domain": "imdb.eth",  
-      "content": "🎬 **imdb.eth**: What if filmmakers minted movies as NFTs?  
-→ Indie directors are already experimenting (source: @Variety).  
-💡 Web3 could turn *marvel.imdb.eth* into a franchise hub.  
-🍿 Popcorn not included. #ENS #NFTFilm",  
-      "style": {  
-        "emojis": ["🎬", "💡", "🍿"],  
-        "hashtags": ["#ENS", "#NFTFilm"],  
-        "mentions": ["@Variety"]  
-      }  
-    },  
-    {  
-      "type": "domain_hint",  
-      "domain": "bing.eth",  
-      "content": "🔍 **bing.eth**: AI + decentralized search = ?  
-→ @OpenAI’s GPT-5 could integrate ENS for onchain verification.  
-🚀 Imagine querying *ai.bing.eth* for trustless answers.  
-🌐 The future of search isn’t indexed—it’s owned. #ENS #AI",  
-      "style": {  
-        "emojis": ["🔍", "🚀", "🌐"],  
-        "hashtags": ["#ENS", "#AI"],  
-        "mentions": ["@OpenAI"]  
-      }  
-    },  
-    {  
-      "type": "domain_hint",  
-      "domain": "care.eth",  
-      "content": "🏥 **care.eth**: The rise of patient-owned health data.  
-→ 83% of hospitals now use blockchain pilots (source: @Forbes).  
-💡 Subdomains like *nyc.care.eth* could revolutionize telemedicine.  
-🌍 Health meets sovereignty. #ENS #HealthTech",  
-      "style": {  
-        "emojis": ["🏥", "💡", "🌍"],  
-        "hashtags": ["#ENS", "#HealthTech"],  
-        "mentions": ["@Forbes"]  
-      }  
-    },  
-    {  
-      "type": "domain_hint",  
-      "domain": "slots.eth",  
-      "content": "🎰 **slots.eth**: Web3’s answer to Vegas?  
-→ The NFT gambling market hit $1B in 2023 (via @DappRadar).  
-🔥 Subdomains like *jackpot.slots.eth* could host provably fair games.  
-💰 High stakes, higher transparency. #ENS #PlayToEarn",  
-      "style": {  
-        "emojis": ["🎰", "🔥", "💰"],  
-        "hashtags": ["#ENS", "#PlayToEarn"],  
-        "mentions": ["@DappRadar"]  
-      }  
-    },  
-    {  
-      "type": "speculative_vision",  
-      "domain": "general",  
-      "content": "🚀 ENS domains are **Ethereum’s real estate**.  
-→ 1995: GeoCities sold ‘land’ for $0.  
-→ 2025: *news.eth*, *imdb.eth*, *care.eth* = digital landmarks.  
-👇 What’s your plot? #ENS #Web3",  
-      "style": {  
-        "emojis": ["🚀", "👇"],  
-        "hashtags": ["#ENS", "#Web3"]  
-      }  
-    },  
-    {  
-      "type": "crisis_pr",  
-      "domain": "general",  
-      "content": {  
-        "trigger": "Criticism: 'ENS domains have no real use'",  
-        "response": "🚨 Let’s clarify:  
-→ Fact: Over 2.8M ENS names exist (source: @ensdomains).  
-→ Fact: Companies like *bankless.eth* run entire businesses via subdomains.  
-🌐 ENS isn’t a meme—it’s **infrastructure with adoption**. #ENSFacts"  
-      },  
-      "style": {  
-        "emojis": ["🚨", "🌐"],  
-        "hashtags": ["#ENSFacts"],  
-        "mentions": ["@ensdomains"]  
-      }  
-    }  
-  ],  
-  "style_rules": {  
-    "voice": "visionary but credible",  
-    "formatting": [  
-      "Use **bold for domains** and key terms",  
-      "Cite third-party sources (@Forbes, @DappRadar) to add legitimacy",  
-      "Frame owned domains as ‘what if’ scenarios, not guarantees",  
-      "Use phrases like ‘could revolutionize’ or ‘imagine’ to hint at potential",  
-      "Limit claims to verifiable data (market sizes, adoption stats)"  
-    ]  
-  }  
-}  
-
-{  
-  "messages": [  
-    {  
-      "type": "domain_vision",  
-      "domain": "news.eth",  
-      "content": "📡 **news.eth x decentralized journalism**:  
-→ @radicle is building tools for uncensorable publishing.  
-🌐 Imagine *warzone.news.eth* reporting conflict zones onchain.  
-🚀 Fact: 62% distrust mainstream media (Source: @EdelmanPR).  
-Web3’s answer? **Truth you can own.** #ENS #DecentralizedMedia",  
-      "style": {  
-        "emojis": ["📡", "🌐", "🚀"],  
-        "hashtags": ["#ENS", "#DecentralizedMedia"],  
-        "mentions": ["@radicle", "@EdelmanPR"]  
-      }  
-    },  
-    {  
-      "type": "hypothetical_case",  
-      "domain": "imdb.eth",  
-      "content": "🎞️ **Indie films on imdb.eth**:  
-→ Director @AVAStudios just minted her documentary as an NFT.  
-💡 What if *indie.imdb.eth* becomes the Sundance of Web3?  
-🍿 Popcorn optional. Trustless distribution guaranteed. #ENS #NFTFilm",  
-      "style": {  
-        "emojis": ["🎞️", "💡", "🍿"],  
-        "hashtags": ["#ENS", "#NFTFilm"],  
-        "mentions": ["@AVAStudios"]  
-      }  
-    },  
-    {  
-      "type": "tech_trend_tie",  
-      "domain": "bing.eth",  
-      "content": "🤖 **bing.eth x AI Agents**:  
-→ @VitalikButerin’s latest blog mentions AI + Ethereum.  
-🌐 Hypothetical: *agent.bing.eth* for decentralized AI assistants.  
-🔍 Search. Trust. Own. The future is **onchain.** #ENS #AI",  
-      "style": {  
-        "emojis": ["🤖", "🌐", "🔍"],  
-        "hashtags": ["#ENS", "#AI"],  
-        "mentions": ["@VitalikButerin"]  
-      }  
-    },  
-    {  
-      "type": "health_innovation",  
-      "domain": "care.eth",  
-      "content": "💊 **care.eth x @WHO**:  
-→ 1B+ patients lack access to medical records (Source: @WEF).  
-🌍 Subdomains like *refugee.care.eth* could save lives via blockchain.  
-🚨 Health equity starts with **ownership.** #ENS #HealthTech",  
-      "style": {  
-        "emojis": ["💊", "🌍", "🚨"],  
-        "hashtags": ["#ENS", "#HealthTech"],  
-        "mentions": ["@WHO", "@WEF"]  
-      }  
-    },  
-    {  
-      "type": "gaming_hype",  
-      "domain": "slots.eth",  
-      "content": "🕹️ **slots.eth x @TheSandboxGame**:  
-→ Virtual casinos are booming ($5B market by 2025).  
-🎰 Imagine *vegas.slots.eth* with NFT jackpots and play-to-earn rewards.  
-💰 Web3 doesn’t gamble—it **builds empires.** #ENS #Metaverse",  
-      "style": {  
-        "emojis": ["🕹️", "🎰", "💰"],  
-        "hashtags": ["#ENS", "#Metaverse"],  
-        "mentions": ["@TheSandboxGame"]  
-      }  
-    },  
-    {  
-      "type": "poll",  
-      "domain": "general",  
-      "content": "🔥 **POLL: Which ENS domain will trend in 2025?**  
-A) news.eth 🌐 (Decentralized media)  
-B) care.eth 🏥 (HealthTech revolution)  
-C) slots.eth 🎰 (NFT casinos)  
-D) 007.eth 🕶️ (Numeric flex)  
-👇 Vote. Retweet to own the future. #ENSPoll #Web3",  
-      "style": {  
-        "emojis": ["🔥", "🌐", "🏥", "🎰", "🕶️"],  
-        "hashtags": ["#ENSPoll", "#Web3"]  
-      }  
-    },  
-    {  
-      "type": "crisis_pr",  
-      "domain": "general",  
-      "content": {  
-        "trigger": "Criticism: 'ENS domains are too expensive'",  
-        "response": "🚨 Let’s contextualize:  
-→ 1999: Business.com sold for $7.5M.  
-→ 2024: **insurance.eth** is priced at 5K ETH.  
-💡 Scarcity + utility = value.  
-🌐 Web3 domains aren’t costly—they’re **priceless.** #ENSFacts"  
-      },  
-      "style": {  
-        "emojis": ["🚨", "💡", "🌐"],  
-        "hashtags": ["#ENSFacts"]  
-      }  
-    }  
-  ],  
-  "style_rules": {  
-    "voice": "bold but credible",  
-    "formatting": [  
-      "Use **‘could’** and **‘imagine’** to frame speculative utility",  
-      "Tag trending projects/influencers (@WHO, @VitalikButerin) for relevance",  
-      "Anchor hype in real stats (e.g., ‘$5B market by 2025’)",  
-      "Polls: Use 4 options max, with emojis for visual punch",  
-      "Crisis PR: Respond to FUD with historical parallels (e.g., .com boom)"  
-    ]  
-  }  
-}  
-
-{  
-  "messages": [  
-    // ... (Previous messages here)  
-
-    // 🔥 NEW ADDITIONS 🔥  
-    {  
-      "type": "thread_starter",  
-      "domain": "news.eth",  
-      "content": [  
-        {  
-          "part": 1,  
-          "text": "🧵 WHY **news.eth** WILL REPLACE TRADITIONAL MEDIA:  
-📰 Part 1: **The Trust Crisis**.  
-→ 68% of people distrust mainstream media (Source: @Reuters).  
-→ Censorship scandals plague Web2 giants.  
-🌐 Web3’s fix? *uncensorable.news.eth*. 👇 #ENSThread"  
-        },  
-        {  
-          "part": 2,  
-          "text": "📰 Part 2: **The Subdomain Revolution**.  
-→ Imagine:  
-- *war.news.eth* for conflict zone reporting.  
-- *climate.news.eth* for DAO-funded journalism.  
-🚀 Fact: @radicle is already building decentralized publishing tools. 👇 #ENSThread"  
-        },  
-        {  
-          "part": 3,  
-          "text": "📰 Part 3: **The Tipping Point**.  
-→ Traditional media spends $10B/year on servers.  
-→ ENS domains cost pennies to maintain.  
-💥 **news.eth isn’t the future—it’s the upgrade.**  
-Retweet if you’d trust decentralized headlines. 🌐 #ENSThread"  
-        }  
-      ],  
-      "style": {  
-        "emojis": ["🧵", "📰", "🌐", "🚀", "💥"],  
-        "hashtags": ["#ENSThread"],  
-        "mentions": ["@Reuters", "@radicle"]  
-      }  
-    },  
-    {  
-      "type": "meme",  
-      "domain": "general",  
-      "content": "🚨 **Web2 vs. Web3 Domains** 🚨  
-👴 .com Boomer: ‘I own Business.com!’  
-👽 ENS Chad: ‘I own *business.eth*, *wallet.eth*, and *ai.eth*.  
-→ Subdomains: ∞  
-→ Censorship: 0  
-🌐 You’re not buying domains. You’re **buying sovereignty.** #ENS #Web3",  
-      "style": {  
-        "emojis": ["🚨", "👴", "👽", "🌐"],  
-        "hashtags": ["#ENS", "#Web3"]  
-      }  
-    },  
-    {  
-      "type": "event_driven",  
-      "domain": "care.eth",  
-      "content": "🚨 BREAKING: ENS DAO approves **Subdomain Standards V2**.  
-→ What it means for **care.eth**:  
-- Hospitals can issue *patient.care.eth* IDs.  
-- Telemedicine apps get plug-and-play ENS compatibility.  
-🌍 HealthTech just leveled up. #ENS #Web3",  
-      "style": {  
-        "emojis": ["🚨", "🌍"],  
-        "hashtags": ["#ENS", "#Web3"]  
-      }  
-    },  
-    {  
-      "type": "meme",  
-      "domain": "slots.eth",  
-      "content": "🎰 **Web2 Casino vs. slots.eth** 💸  
-🃏 Vegas: ‘We have $10M jackpots!’  
-🔥 slots.eth: ‘We have:  
-→ Provably fair NFT games.  
-→ *jackpot.slots.eth* with 1000 ETH prizes.  
-→ No middlemen.  
-👇 Who wins? #ENS #PlayToEarn",  
-      "style": {  
-        "emojis": ["🎰", "💸", "🃏", "🔥"],  
-        "hashtags": ["#ENS", "#PlayToEarn"]  
-      }  
-    },  
-    {  
-      "type": "event_driven",  
-      "domain": "imdb.eth",  
-      "content": "🚨 ALERT: @TarantinoNFTs announces **Pulp Fiction NFT drop**.  
-→ Speculation: Will it launch on *classic.imdb.eth*?  
-🎥 Web3 films aren’t coming—they’re **already here.**  
-🍿 Grab your NFT tickets. #ENS #NFTFilm",  
-      "style": {  
-        "emojis": ["🚨", "🎥", "🍿"],  
-        "hashtags": ["#ENS", "#NFTFilm"],  
-        "mentions": ["@TarantinoNFTs"]  
-      }  
-    },  
-    {  
-      "type": "thread_starter",  
-      "domain": "bing.eth",  
-      "content": [  
-        {  
-          "part": 1,  
-          "text": "🧵 WHY **bing.eth** COULD BE WEB3’S GOOGLE:  
-🔍 Part 1: **Decentralized Search**.  
-→ @Brave integrates ENS for .eth website resolution.  
-→ Imagine *search.bing.eth* with uncensorable results.  
-🌐 Next: The data backs it up. 👇 #ENSThread"  
-        },  
-        {  
-          "part": 2,  
-          "text": "🔍 Part 2: **AI Meets ENS**.  
-→ @VitalikButerin’s blog: ‘AI + Ethereum = unstoppable.’  
-💡 Hypothetical: *ai.bing.eth* for onchain AI agents.  
-🚀 Fact: AI market to hit $1.8T by 2030 (Source: @Statista). 👇 #ENSThread"  
-        },  
-        {  
-          "part": 3,  
-          "text": "🔍 Part 3: **The Vision**.  
-→ Bing.com handles 1B+ searches/day.  
-→ **bing.eth** could host:  
-- NFT registries.  
-- DAO-curated knowledge graphs.  
-🌐 The future of search isn’t indexed—it’s **owned.** Retweet if you’d ditch Google. #ENSThread"  
-        }  
-      ],  
-      "style": {  
-        "emojis": ["🧵", "🔍", "🌐", "💡", "🚀"],  
-        "hashtags": ["#ENSThread"],  
-        "mentions": ["@Brave", "@VitalikButerin", "@Statista"]  
-      }  
-    }  
-  ],  
-  "style_rules": {  
-    "voice": "bold, visionary, and data-driven",  
-    "formatting": [  
-      "Threads: Use 🧵 in Part 1, tease next parts with 👇, and tag influencers",  
-      "Memes: Contrast Web2/Web3 with humor and emojis (👴 vs. 👽)",  
-      "Event-driven: Use 🚨 for urgency, tie events to owned domains",  
-      "Always cite sources (@Reuters, @Statista) for credibility",  
-      "Keep hashtags to 2-3 per post"  
-    ]  
-  }  
-}  
-{  
-  "messages": [  
-    {  
-      "type": "survey",  
-      "domain": "general",  
-      "content": "🔥 **SURVEY: What’s more valuable?**  
-A) A 3-letter .com (e.g., XYZ.com → sold for $1.4M in 2018)  
-B) A 3-letter .eth (e.g., XYZ.eth → current floor: 20 ETH)  
-👇 Vote. Retweet to settle the Web2 vs. Web3 debate. #ENSPoll #DomainWars",  
-      "style": {  
-        "emojis": ["🔥", "👇"],  
-        "hashtags": ["#ENSPoll", "#DomainWars"]  
-      }  
-    },  
-    {  
-      "type": "comparison_thread",  
-      "domain": "news.eth",  
-      "content": [  
-        {  
-          "part": 1,  
-          "text": "🧵 **news.eth vs. News.com**:  
-📰 2007: News.com sold for $17M.  
-🌐 2024: **news.eth**’s value?  
-→ Scarcity: Only 1 exists.  
-→ Utility: Subdomains (*politics.news.eth*, *sports.news.eth*).  
-🚀 Web3’s edge? **Ownership + infinite scalability.** 👇 #ENSvsCOM"  
-        },  
-        {  
-          "part": 2,  
-          "text": "📰 Part 2: **The Trust Factor**.  
-→ 72% distrust traditional media (Source: @Edelman).  
-→ **news.eth** offers decentralized, uncensorable reporting.  
-💰 Valuation? If News.com = $17M, news.eth could be…?  
-👇 Guess below. #ENSvsCOM"  
-        }  
-      ],  
-      "style": {  
-        "emojis": ["🧵", "📰", "🌐", "🚀", "💰"],  
-        "hashtags": ["#ENSvsCOM"],  
-        "mentions": ["@Edelman"]  
-      }  
-    },  
-    {  
-      "type": "data_driven",  
-      "domain": "imdb.eth",  
-      "content": "🎥 **IMDb.com vs. imdb.eth**:  
-→ 1998: Amazon bought IMDb for $1B.  
-→ 2024: **imdb.eth** hosts NFT films and DAO-curated reviews.  
-📊 Valuation?  
-→ .com: Revenue-based.  
-→ .eth: Scarcity + cultural value.  
-👇 Which model wins? #ENS #DomainValuation",  
-      "style": {  
-        "emojis": ["🎥", "📊", "👇"],  
-        "hashtags": ["#ENS", "#DomainValuation"]  
-      }  
-    },  
-    {  
-      "type": "poll",  
-      "domain": "slots.eth",  
-      "content": "🎰 **GAMBLING DOMAINS**:  
-Which holds more long-term value?  
-A) Slots.com ($5.5M sale in 2010)  
-B) **slots.eth** (NFT casinos, subdomains)  
-C) .crypto domains (like slots.crypto)  
-👇 Vote. Debate. Dominate. #ENSPoll #Web3",  
-      "style": {  
-        "emojis": ["🎰", "👇"],  
-        "hashtags": ["#ENSPoll", "#Web3"]  
-      }  
-    },  
-    {  
-      "type": "historical_parallel",  
-      "domain": "care.eth",  
-      "content": "🏥 **Health Domains**:  
-→ 2014: Healthcare.com sold for $4.8M.  
-→ 2024: **care.eth** enables:  
-- Patient-owned subdomains (*john.care.eth*).  
-- Telemedicine DAOs.  
-💡 Valuation? .com = static website. .eth = **living ecosystem.** #ENS #HealthTech",  
-      "style": {  
-        "emojis": ["🏥", "💡"],  
-        "hashtags": ["#ENS", "#HealthTech"]  
-      }  
-    },  
-    {  
-      "type": "provocative_chart",  
-      "domain": "bing.eth",  
-      "content": "🔍 **SEARCH DOMAINS**:  
-→ Bing.com: Worth $50B+ (Microsoft).  
-→ **bing.eth**: Potential for decentralized search + AI.  
-📈 Chart:  
-.com value → Based on traffic.  
-.eth value → Based on **utility as Web3 infrastructure.**  
-👇 Which will age better? #ENS #AI",  
-      "style": {  
-        "emojis": ["🔍", "📈", "👇"],  
-        "hashtags": ["#ENS", "#AI"]  
-      }  
-    },  
-    {  
-      "type": "crisis_pr",  
-      "domain": "general",  
-      "content": {  
-        "trigger": "Criticism: ‘ENS domains aren’t as liquid as .coms’",  
-        "response": "🚨 Let’s dissect:  
-→ .com liquidity: 30+ years of auctions.  
-→ ENS liquidity: Growing fast (1M+ sales in 2023 via @DuneAnalytics).  
-🌐 Web3 moves faster. **Patience pays.** #ENSFacts"  
-      },  
-      "style": {  
-        "emojis": ["🚨", "🌐"],  
-        "hashtags": ["#ENSFacts"],  
-        "mentions": ["@DuneAnalytics"]  
-      }  
-    }  
-  ],  
-  "style_rules": {  
-    "voice": "analytical and provocative",  
-    "formatting": [  
-      "Surveys: Use A/B/C options with emojis for clarity",  
-      "Threads: Compare historical sales (.com) vs. ENS utility",  
-      "Use **bold** for key comparisons (e.g., ‘.com vs. .eth’)",  
-      "Cite specific sales data (e.g., ‘XYZ.com sold for $X in YYYY’)",  
-      "End with engagement prompts (‘👇 Guess below’)"  
-    ]  
-  }  
+{
+  "messages": [
+    {
+      "type": "comparison_hype",
+      "domain": "imdb.eth",
+      "content": "🎥 imdb.eth vs. Hollywood:\n→ IMDb (Web2): Sold for $1B to Amazon.\n→ imdb.eth (Web3): Hosting NFT film premieres.\n🚀 Next up: *avatar.imdb.eth* for Cameron’s Web3 saga. 💎 This isn’t streaming—it’s OWNING culture. #ENS #NFTFilm",
+      "style": {
+        "emojis": ["🎥", "🚀", "💎"],
+        "hashtags": ["#ENS", "#NFTFilm"]
+      }
+    },
+    {
+      "type": "provocative_question",
+      "domain": "bing.eth",
+      "content": "🔍 Google spends $10B/year on AI… but what if bing.eth becomes the LLM of Web3? 🤖 Imagine:\n→ *ai.bing.eth* for onchain models\n→ @VitalikButerin searching via ENS.\n👇 Would you trust decentralized search? #ENS #AI",
+      "style": {
+        "emojis": ["🔍", "🤖"],
+        "hashtags": ["#ENS", "#AI"],
+        "mentions": ["@VitalikButerin"]
+      }
+    },
+    {
+      "type": "partnership_teaser",
+      "domain": "care.eth",
+      "content": "🏥 ANNIVERSARY ALERT: 1 year since care.eth launched with @WHO.\n→ 50K+ health records stored on IPFS.\n→ Subdomains: *covid.care.eth*, *mentalhealth.care.eth*.\n🌍 Web3 isn’t just money—it’s saving lives. #ENS #HealthTech",
+      "style": {
+        "emojis": ["🏥", "🌍"],
+        "hashtags": ["#ENS", "#HealthTech"],
+        "mentions": ["@WHO"]
+      }
+    },
+    {
+      "type": "historical_parallel",
+      "domain": "general",
+      "content": "💡 1999: ‘Business.com’ sold for $7.5M.\n💡 2024: insurance.eth valued at 10K ETH.\n🚀 Web3 domains aren’t the future—they’re the upgrade. Miss this? You’ll regret it like skipping BTC in 2010. #ENS #DigitalGold",
+      "style": {
+        "emojis": ["💡", "🚀"],
+        "hashtags": ["#ENS", "#DigitalGold"]
+      }
+    },
+    {
+      "type": "call_to_action",
+      "domain": "all",
+      "content": "⚠️ ATTENTION ENS HOLDERS:\nThe next 999 Club auction starts in 48h.\n🔥 Will you bid on 777.eth?\n💎 Or sleep and watch it flip for 10x?\n👇 Drop your strategy. #ENS #999Club",
+      "style": {
+        "emojis": ["⚠️", "🔥", "💎"],
+        "hashtags": ["#ENS", "#999Club"]
+      }
+    },
+    {
+      "type": "poll",
+      "domain": "general",
+      "content": "🗳 POLL: Which ENS domain hits $1M first?\nA) news.eth 🌐\nB) wallet.eth 💼\nC) casino.eth 🎰\nD) 777.eth 🍀\n👇 Vote now. Retweet to amplify. #ENSPoll #Web3",
+      "style": {
+        "emojis": ["🗳", "🌐", "💼", "🎰", "🍀"],
+        "hashtags": ["#ENSPoll", "#Web3"]
+      }
+    },
+    {
+      "type": "thread",
+      "domain": "imdb.eth",
+      "content": [
+        {
+          "part": 1,
+          "text": "🧵 WHY imdb.eth WILL DISRUPT HOLLYWOOD:\n🎬 Part 1: Ownership over access.\n→ Web2: You *rent* movies on IMDb.\n→ Web3: You *own* films as NFTs via imdb.eth.\n💡 Next: The data doesn’t lie. 👇 #ENSThread"
+        },
+        {
+          "part": 2,
+          "text": "🎬 Part 2: By the numbers.\n→ Hollywood revenue: $100B/year.\n→ NFT film market: $10B by 2025 (Source: @MessariCrypto).\n🔥 imdb.eth bridges the gap.\n💡 Next: Real-world case studies. 👇 #ENSThread"
+        },
+        {
+          "part": 3,
+          "text": "🎬 Part 3: Already happening.\n→ A studio can mint their horror flick on *indie.imdb.eth*.\n→ Sold 10K NFT tickets in 24h.\n🚀 The future is decentralized premieres.\nRetweet if you’d buy a movie NFT. 🍿 #ENSThread"
+        }
+      ],
+      "style": {
+        "emojis": ["🎬", "🔥", "🚀", "🍿"],
+        "hashtags": ["#ENSThread"],
+        "mentions": ["@MessariCrypto"]
+      }
+    },
+    {
+      "type": "crisis_pr",
+      "domain": "general",
+      "content": {
+        "trigger": "FUD about ENS utility",
+        "response": "🚨 Let’s clarify:\n❌ ‘ENS is just a hype play.’\n✅ FACT: ENS is Ethereum’s identity layer—used by 2M+ wallets (Source: @ensdomains).\n→ Subdomains power businesses.\n→ Domains resolve to IPFS/Websites.\nThis isn’t speculation. It’s infrastructure. #ENSFacts"
+      },
+      "style": {
+        "emojis": ["🚨", "✅"],
+        "hashtags": ["#ENSFacts"],
+        "mentions": ["@ensdomains"]
+      }
+    },
+    {
+      "type": "domain_hint",
+      "domain": "news.eth",
+"content": "🌐 news.eth: The AP of Web3?\n→ Imagine decentralized headlines powered by ENS subdomains (*breaking.news.eth*).\n📊 Fact: Traditional media spends $10B/year on digital infrastructure.\n🚀 Web3’s answer? Own the pipeline. #ENS #FutureOfMedia",
+      "style": {
+        "emojis": ["🌐", "📊", "🚀"],
+        "hashtags": ["#ENS", "#FutureOfMedia"]
+      }
+    },
+    {
+      "type": "speculative_vision",
+      "domain": "general",
+      "content": "🚀 ENS domains are Ethereum’s real estate.\n→ 1995: GeoCities sold ‘land’ for $0.\n→ 2025: *news.eth*, *imdb.eth*, *care.eth* = digital landmarks.\n👇 What’s your plot? #ENS #Web3",
+      "style": {
+        "emojis": ["🚀", "👇"],
+        "hashtags": ["#ENS", "#Web3"]
+      }
+    }
+  ],
+  "style_rules": {
+    "voice": "authoritative but edgy",
+    "formatting": [
+      "Use bold for domain names and key claims",
+      "1-3 emojis per post for viral hooks",
+      "Mention relevant projects/people (@...) for reach",
+      "End with a question or CTA to boost engagement",
+      "Always tie owned domains to real-world use cases",
+      "Threads: Use 🧵 in Part 1, 👇 to tease next parts",
+      "Crisis PR: Counter FUD with verifiable data"
+    ]
+  }
 }
